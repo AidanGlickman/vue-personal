@@ -13,7 +13,7 @@
           <span class="text-success">whatis</span> aidan&#8209;glickman <br />
         </h3>
         <vue-typed-js
-          :strings="['a student', 'a developer', 'an entrepreneur']"
+          :strings="['student', 'developer', 'entrepreneur']"
           :loop="true"
           :typeSpeed="75"
           :backDelay="100"
