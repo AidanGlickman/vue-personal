@@ -7747,6 +7747,10 @@ type-is@~1.6.17, type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
+"typed.js@git+https://github.com/mattboldt/typed.js.git":
+  version "2.0.11"
+  resolved "git+https://github.com/mattboldt/typed.js.git#950d4527ce82c565cf248961f7c476ed7d225ae7"
+
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
@@ -8014,6 +8018,11 @@ vue-loader@^15.8.3:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
+vue-router@^3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.1.5.tgz#ff29b8a1e1306c526b52d4dc0532109f16c41231"
+  integrity sha512-BszkPvhl7I9h334GjckCh7sVFyjTPMMJFJ4Bsrem/Ik+B/9gt5tgrk8k4gGLO4ZpdvciVdg7O41gW4DisQWurg==
+
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-4.1.2.tgz#dedf349806f25ceb4e64f3ad7c0a44fba735fcf8"
@@ -8034,6 +8043,13 @@ vue-template-es2015-compiler@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
+
+vue-typed-js@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/vue-typed-js/-/vue-typed-js-0.1.2.tgz#afc38972675314c37df6de91daf870f6860024ca"
+  integrity sha512-9kDGuz17uYJghe/1hepRWiWYssgUFtrKnMGPHlWjVRxdvs/d9xYYWMkgzztjhx1R1B33hXkN8ctmkzCYHQ+caA==
+  dependencies:
+    typed.js "git+https://github.com/mattboldt/typed.js.git"
 
 vue@^2.6.11:
   version "2.6.11"

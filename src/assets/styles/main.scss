@@ -1,0 +1,9 @@
+@import '_custvars.scss';
+@import '~nord/src/sass/nord.scss';
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
+
+body {
+  font-family: 'Fira Code', monospace;
+}
