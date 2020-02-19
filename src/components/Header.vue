@@ -3,14 +3,13 @@
     <b-container>
       <b-jumbotron bg-variant="transparent">
         <template v-slot:header>
-          <span>
-            Aidan Glickman
-          </span></template
-        >
+          <span>Aidan Glickman</span>
+        </template>
         <hr />
         <h3>
-          <span class="text-muted">$ </span>
-          <span class="text-success">whatis</span> aidanglickman <br />
+          <span class="text-muted">$</span> &nbsp;
+          <span class="text-success">whatis</span> aidanglickman
+          <br />
         </h3>
         <vue-typed-js
           :strings="['student', 'developer', 'entrepreneur']"
@@ -20,7 +19,8 @@
           :backSpeed="100"
         >
           <h1 id="typed-lead">
-            aidanglickman (1) - <span class="typing"></span>
+            aidanglickman (1) -
+            <span class="typing"></span>
           </h1>
         </vue-typed-js>
       </b-jumbotron>
@@ -29,21 +29,21 @@
 </template>
 
 <script>
-  export default {
-    name: 'Header',
-  }
+export default {
+  name: "Header"
+};
 </script>
 
 <style lang="scss" scoped>
-  #header {
-    width: 100vw;
-  }
-  .jumbotron {
-    margin: auto;
-    text-align: center;
-  }
+#header {
+  width: 100vw;
+}
+.jumbotron {
+  margin: auto;
+  text-align: center;
+}
 
-  #typed-lead {
-    margin: auto;
-  }
+#typed-lead {
+  margin: auto;
+}
 </style>

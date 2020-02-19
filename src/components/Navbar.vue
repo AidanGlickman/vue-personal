@@ -1,5 +1,5 @@
 <template>
-  <b-navbar toggleable="lg" :type="textType" variant="bg-secondary">
+  <b-navbar toggleable="lg" type="dark" variant="bg-secondary">
     <b-container>
       <b-navbar-brand to="/">Aidan Glickman</b-navbar-brand>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -8,14 +8,20 @@
           <b-nav-item to="/resume">Resume</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
+      <b-navbar-nav class="ml-auto">
+        <ThemeToggle />
+      </b-navbar-nav>
     </b-container>
   </b-navbar>
 </template>
 
 <script>
+import ThemeToggle from "@/components/pieces/ThemeToggle.vue";
 export default {
   name: "Navbar",
-
+  components: {
+    ThemeToggle
+  },
   computed: {
     textType() {
       return this.$store.getters.textType;

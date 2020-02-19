@@ -11,10 +11,18 @@ export default new Vuex.Store({
     textType: state => {
       return state.lightTheme ? 'light' : 'dark'
     },
+    themeOpp: state => {
+      return state.lightTheme ? 'dark' : 'light'
+    },
   },
   mutations: {
-    changeTheme(state) {
+    toggleTheme(state) {
       state.lightTheme = !state.lightTheme
+    },
+  },
+  actions: {
+    toggleTheme(context) {
+      context.commit('toggleTheme')
     },
   },
 })

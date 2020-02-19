@@ -19,13 +19,3 @@ $theme-colors: (
   'bg-secondary': $nord1,
   'opposite': $nord6,
 ) !default;
-
-@if $light-theme {
-  $body-bg: $light;
-  $body-color: $dark;
-
-  $theme-colors: (
-    'bg-secondary': $nord5,
-    'opposite': $nord0,
-  ) !default;
-}
