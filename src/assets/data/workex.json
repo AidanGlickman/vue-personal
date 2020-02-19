@@ -1,0 +1,53 @@
+[
+  {
+    "title": "ML & Engineering Intern",
+    "dates": "August 2019 - Present",
+    "company": "OWAL",
+    "location": "Brooklyn, NY",
+    "description": "A computer vision startup focused on surveilance and security.",
+    "bullets": [
+      "Built a set of detectors to ensure client cameras are working properly",
+      "Engineered front end to display data and analytics on camera statistics",
+      "Cooperate directly with CTO to identify and implement novel solutions for engineering problems"
+    ]
+  },
+  {
+    "title": "Summer Intern",
+    "dates": "June 2018 - August 2018, July 2019 - August 2019",
+    "company": "Immunobrain Checkpoint",
+    "location": "Rehovot, Israel",
+    "description": "An early stage biopharmaceutical company developing treatments for neurological disorders",
+    "bullets": [
+      "Developed image processing pipeline to automate research tasks.",
+      "Performed lab and microscopy work for research on macular degeneration",
+      "Created soon to be published company website",
+      "Worked and communicated with co-workers in Hebrew"
+    ]
+  },
+  {
+    "title": "Investment Intern",
+    "dates": "July 2017 - August 2017",
+    "company": "8VC",
+    "location": "San Francisco, California",
+    "description": "A venture capital firm aimed at leading technological advancement in existing industries",
+    "bullets": [
+      "Developed image processing pipeline to automate research tasks.",
+      "Performed lab and microscopy work for research on macular degeneration",
+      "Created soon to be published company website",
+      "Worked and communicated with co-workers in Hebrew"
+    ]
+  },
+  {
+    "title": "Tech Consulting & Misc.",
+    "dates": "September 2016 - present",
+    "company": "Self Employed",
+    "location": "San Francisco, California",
+    "description": "",
+    "bullets": [
+      "Freelance tech consulting and other work, including building software, tech-stack migration services, etc.",
+      "Hardware and other technology component sales on online auction platforms (gross sales of $40,000 to date)",
+      "Build custom business and gaming PCs for clients",
+      "Design and sell original artwork on global online marketplace for print on demand products"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "college": "",
+  "highschool": "Bergen County Academies",
+  "major": "Academy for Technology and Computer Science",
+  "years": "2016-2020",
+  "location": "Hackensack, NJ",
+  "gpa": "3.8/4.0 unweighted",
+  "extra": "4.0/4.0 CS GPA",
+  "act": "36/36",
+  "tests": ["5/5 AP Computer Science A", "Calculus AB"],
+  "courses": [
+    "Machine Learning",
+    "Numerical Models & Simulations",
+    "Artificial Intelligence",
+    "Advanced Topics in CS",
+    "C & Data Structures",
+    "AP Computer Science A",
+    "Internet of Things"
+  ]
+}

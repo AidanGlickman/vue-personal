@@ -1,0 +1,33 @@
+[
+  {
+    "title": "President",
+    "dates": "September 2017 - present",
+    "organization": "BCA Cybersecurity Club",
+    "bullets": [
+      "Present and teach cybersecurity concepts to fellow students at weekly sessions",
+      "Compete in CTFs (Capture the Flag cybersecurity competitions)",
+      "Launched and coordinated BCACTF, a beginner-focused cybersecurity competition",
+      "Captained Air Force Association CyberPatriot team to 3rd in New Jersey, 80th in nation in our first year"
+    ]
+  },
+  {
+    "title": "Director",
+    "dates": "November 2018 - February 2020",
+    "organization": "hackBCA",
+    "bullets": [
+      "Organize and run hackathons (hackBCA V) and other educational events for the country’s longest running high school hackathon",
+      "Run board of directors overseeing various aspects of event planning including guest speakers, event logistics, onsite technology, and sponsorships",
+      "Direct weeklong summer program for rising high school freshmen to introduce them to computer science"
+    ]
+  },
+  {
+    "title": "Webmaster & Peer Tutor",
+    "dates": "October 2018 - present",
+    "organization": "BCA NHS Chapter",
+    "bullets": [
+      "Elected to board of school's NHS chapter",
+      "Fulfilled campaign promise to build bca-nhs.org web platform",
+      "Tutor fellow students in CS and math"
+    ]
+  }
+]
