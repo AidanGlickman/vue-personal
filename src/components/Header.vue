@@ -1,11 +1,11 @@
 <template>
   <div id="header">
     <b-container>
-      <b-jumbotron bg-variant="transparent">
+      <b-jumbotron bg-variant="transparent" fluid>
         <template v-slot:header>
-          <span>Aidan Glickman</span>
+          <div class="headline">Aidan Glickman</div>
         </template>
-        <hr />
+
         <h3>
           <span class="text-muted">$</span> &nbsp;
           <span class="text-success">whatis</span> aidanglickman
@@ -40,7 +40,11 @@ export default {
 }
 .jumbotron {
   margin: auto;
+  // text-align: center;
+}
+.headline {
   text-align: center;
+  width: 100%;
 }
 
 #typed-lead {

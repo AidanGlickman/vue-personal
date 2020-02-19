@@ -1,5 +1,5 @@
 <template>
-  <div id="card">
+  <div id="card" class="mx-auto">
     <a :href="project.url" target="_blank">
       <b-card
         :img-src="require('@/assets/images/projects/' + project.img)"

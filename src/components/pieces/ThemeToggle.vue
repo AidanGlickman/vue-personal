@@ -20,5 +20,8 @@ export default {
 .light {
   background-color: $light;
   color: $dark;
+  a {
+    color: $nord10;
+  }
 }
 </style>

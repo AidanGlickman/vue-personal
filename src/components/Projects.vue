@@ -2,7 +2,7 @@
   <b-container>
     <h3>
       <span class="text-muted">$</span> &nbsp;
-      <span class="text-success">ls</span> aidanglickman/projects
+      <span class="text-success">ls</span> projects
       <br />
     </h3>
     <b-card-group deck class="mx-auto">

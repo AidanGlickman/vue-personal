@@ -8,6 +8,10 @@ body {
   font-family: 'Fira Code', monospace;
 }
 
+.container {
+  padding: 0;
+}
+
 @media print {
   .container {
     width: auto;
