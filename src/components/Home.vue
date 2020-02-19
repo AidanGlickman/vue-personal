@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="home">
     <Header />
     <Projects />
     <Contact />
@@ -20,4 +20,5 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+</style>

@@ -1,5 +1,5 @@
 <template>
-  <b-navbar toggleable="lg" type="dark" variant="bg-secondary">
+  <b-navbar toggleable="lg" type="dark" variant="bg-secondary" sticky>
     <b-container>
       <ThemeToggle />
       <b-navbar-brand to="/">Aidan Glickman</b-navbar-brand>
