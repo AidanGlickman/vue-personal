@@ -13,10 +13,11 @@ $dark: $nord0;
 
 $body-bg: $dark !default;
 $body-color: $light !default;
-$muted: $nord3 !default;
+$text-muted: $nord3 !default;
 
 $theme-colors: (
   'bg-secondary': $nord1,
+  'opposite': $nord6,
 ) !default;
 
 @if $light-theme {
@@ -25,5 +26,6 @@ $theme-colors: (
 
   $theme-colors: (
     'bg-secondary': $nord5,
+    'opposite': $nord0,
   ) !default;
 }

@@ -10,17 +10,17 @@
         <hr />
         <h3>
           <span class="text-muted">$ </span>
-          <span class="text-success">whatis</span> aidan&#8209;glickman <br />
+          <span class="text-success">whatis</span> aidanglickman <br />
         </h3>
         <vue-typed-js
           :strings="['student', 'developer', 'entrepreneur']"
           :loop="true"
           :typeSpeed="75"
-          :backDelay="100"
-          :backSpeed="50"
+          :backDelay="200"
+          :backSpeed="100"
         >
           <h1 id="typed-lead">
-            aidan-glickman (1) - <span class="typing"></span>
+            aidanglickman (1) - <span class="typing"></span>
           </h1>
         </vue-typed-js>
       </b-jumbotron>

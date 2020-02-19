@@ -1,0 +1,23 @@
+[
+  {
+    "title": "hackBCA",
+    "tech": "Event",
+    "desc": "One of the country's first highschool hackathons.",
+    "url": "https://hackbca.com",
+    "img": "hackbca.png"
+  },
+  {
+    "title": "bcar.fun",
+    "tech": "Web",
+    "desc": "A link bank for my school. Also has tools like locate.",
+    "url": "https://bcar.fun",
+    "img": "bcar.png"
+  },
+  {
+    "title": "bca-nhs.org",
+    "tech": "Web",
+    "desc": "A web platform that deals with all NHS functions at my school.",
+    "url": "https://bca-nhs.org",
+    "img": "nhs.png"
+  }
+]

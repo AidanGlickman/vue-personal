@@ -1,7 +1,7 @@
 <template>
-  <b-navbar toggleable="lg" type="warning" variant="bg-secondary">
+  <b-navbar toggleable="lg" :type="textType" variant="bg-secondary">
     <b-container>
-      <b-navbar-brand to="/">NavBar</b-navbar-brand>
+      <b-navbar-brand to="/">Aidan Glickman</b-navbar-brand>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
     </b-container>
   </b-navbar>
@@ -10,6 +10,12 @@
 <script>
   export default {
     name: 'Navbar',
+
+    computed: {
+      textType() {
+        return this.$store.getters.textType
+      },
+    },
   }
 </script>
 
