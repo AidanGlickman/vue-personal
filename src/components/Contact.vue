@@ -7,7 +7,6 @@
     </h3>
     <b-row>
       <b-col
-        sm="3"
         class="text-center"
         :class="{'dark': !this.$store.state.lightTheme, 'light': this.$store.state.lightTheme}"
       >
@@ -16,7 +15,6 @@
         </a>
       </b-col>
       <b-col
-        sm="3"
         class="text-center"
         :class="{'dark': !this.$store.state.lightTheme, 'light': this.$store.state.lightTheme}"
       >
@@ -25,7 +23,6 @@
         </a>
       </b-col>
       <b-col
-        sm="3"
         class="text-center"
         :class="{'dark': !this.$store.state.lightTheme, 'light': this.$store.state.lightTheme}"
       >
@@ -34,7 +31,6 @@
         </a>
       </b-col>
       <b-col
-        sm="3"
         class="text-center"
         :class="{'dark': !this.$store.state.lightTheme, 'light': this.$store.state.lightTheme}"
       >
