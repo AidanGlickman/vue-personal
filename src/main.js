@@ -6,9 +6,14 @@ import VueTypedJs from 'vue-typed-js'
 import store from './store/store'
 
 import Unicon from 'vue-unicons'
-import { uniMediumM, uniGithub, uniEnvelope } from 'vue-unicons/src/icons'
+import {
+  uniMediumM,
+  uniGithub,
+  uniEnvelope,
+  uniLinkedin,
+} from 'vue-unicons/src/icons'
 
-Unicon.add([uniMediumM, uniGithub, uniEnvelope])
+Unicon.add([uniMediumM, uniGithub, uniEnvelope, uniLinkedin])
 Vue.use(Unicon)
 
 Vue.use(BootstrapVue)

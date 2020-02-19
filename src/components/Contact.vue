@@ -6,19 +6,24 @@
       <br />
     </h3>
     <b-row>
-      <b-col sm="4" class="contact-icon text-center">
+      <b-col sm="3" class="contact-icon text-center">
         <a href="https://github.com/aidanglickman">
           <unicon name="github" width="5rem" height="5rem" />
         </a>
       </b-col>
-      <b-col sm="4" class="contact-icon text-center">
+      <b-col sm="3" class="contact-icon text-center">
         <a href="https://medium.com/@aidgli">
           <unicon name="medium-m" width="5rem" height="5rem" />
         </a>
       </b-col>
-      <b-col sm="4" class="contact-icon text-center">
+      <b-col sm="3" class="contact-icon text-center">
         <a href="mailto:aidan@aidanglickman.com">
           <unicon name="envelope" width="5rem" height="5rem" />
+        </a>
+      </b-col>
+      <b-col sm="3" class="contact-icon text-center">
+        <a href="https://www.linkedin.com/in/aidanglickman/">
+          <unicon name="linkedin" width="5rem" height="5rem" />
         </a>
       </b-col>
     </b-row>
