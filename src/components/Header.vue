@@ -36,7 +36,6 @@
 
 <style lang="scss" scoped>
   #header {
-    min-height: 50vh;
     width: 100vw;
   }
   .jumbotron {

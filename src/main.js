@@ -11,9 +11,10 @@ import {
   uniGithub,
   uniEnvelope,
   uniLinkedin,
+  uniPrint,
 } from 'vue-unicons/src/icons'
 
-Unicon.add([uniMediumM, uniGithub, uniEnvelope, uniLinkedin])
+Unicon.add([uniMediumM, uniGithub, uniEnvelope, uniLinkedin, uniPrint])
 Vue.use(Unicon)
 
 Vue.use(BootstrapVue)

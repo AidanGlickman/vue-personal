@@ -7,3 +7,18 @@
 body {
   font-family: 'Fira Code', monospace;
 }
+
+@media print {
+  .container {
+    width: auto;
+    color: $dark;
+    .pagebreak {
+      page-break-before: always;
+    }
+  }
+
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+}

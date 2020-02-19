@@ -11,7 +11,7 @@
       <b-col sm="12">{{ edData.act }} ACT</b-col>
       <b-col sm="12">{{ edData.tests.join(', ') }}</b-col>
     </b-row>
-    <h3>Related Coursework</h3>
+    <h3>CS Coursework</h3>
     <b-row>
       <b-col
         sm="6"
