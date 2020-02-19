@@ -8,7 +8,7 @@
     <b-card-group deck class="mx-auto">
       <Project v-for="proj in projList" :key="proj.key" :project="proj" />
     </b-card-group>
-    <p class="text-center">
+    <p class="text-center follow">
       Find projects that don't have pretty frontends on my
       <a
         href="https://github.com/AidanGlickman"

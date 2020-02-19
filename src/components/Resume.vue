@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <b-button @click="printWindow" class="no-print"
+    <b-button @click="printWindow" class="no-print" id="printbutton"
       ><unicon name="print"
     /></b-button>
     <Intro />
@@ -38,4 +38,8 @@
   }
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+#printbutton{
+  margin-top: 5px;
+}
+</style>
