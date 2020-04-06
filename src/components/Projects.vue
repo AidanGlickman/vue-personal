@@ -33,4 +33,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+.follow {
+  margin-top: 20px;
+}
+</style>
