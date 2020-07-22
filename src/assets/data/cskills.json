@@ -1,9 +1,11 @@
 [
   "Python (OpenCV, numPy, SciKit...)",
-  "C",
-  "Racket/Scheme",
-  "x86 and 6502 assemblies",
+  "Docker",
+  "Kubernetes",
   "JavaScript (node, Vue, Express...)",
+  "C",
+  "x86 and 6502 assemblies",
+  "Racket/Scheme",
   "Java",
   "Shell scripting",
   "Linux Sysadmin"
