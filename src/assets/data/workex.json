@@ -1,7 +1,19 @@
 [
   {
+    "title": "Full Stack Engineer",
+    "dates": "September 2020 - Present",
+    "company": "Autofleet",
+    "location": "Tel Aviv, Israel",
+    "description": "A smart mobility startup focused on Vehicle-as-a-Service solutions and ML driven insights",
+    "bullets": [
+      "Contributed to various projects and integrations",
+      "Saw through projects from conceptualization to deployment",
+      "Communicated to coworkers in Hebrew"
+    ]
+  },
+  {
     "title": "ML & Engineering Intern",
-    "dates": "August 2019 - Present",
+    "dates": "August 2019 - May 2020",
     "company": "OWAL",
     "location": "Brooklyn, NY",
     "description": "A computer vision startup focused on surveillance and security",
@@ -20,7 +32,6 @@
     "bullets": [
       "Developed image processing pipeline to automate research tasks",
       "Performed lab and microscopy work for research on macular degeneration",
-      "Created soon to be published company website",
       "Worked and communicated with co-workers in Hebrew"
     ]
   },
@@ -39,7 +50,7 @@
   {
     "title": "Tech Consulting & Misc.",
     "dates": "September 2016 - present",
-    "company": "Self Employed",
+    "company": "Self Employed (Firerock Technologies LLC)",
     "location": "",
     "description": "",
     "bullets": [
