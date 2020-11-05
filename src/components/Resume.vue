@@ -8,7 +8,7 @@
     <Education />
     <hr />
     <Workex />
-    <hr class="pagebreak" />
+    <hr />
     <ExtraCurr />
     <hr />
     <Skills />
