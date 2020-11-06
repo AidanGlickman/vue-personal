@@ -6,8 +6,8 @@
     "location": "Tel Aviv, Israel",
     "description": "A smart mobility startup focused on Vehicle-as-a-Service solutions and ML driven insights",
     "bullets": [
-      "Contributed to various projects across frontend, backend and data analytics",
-      "Saw through projects from conceptualization to deployment",
+      "Contributed to front and backend for pooled vehicle rerouting and route matching",
+      "Conceptualized and rewrote integration with Tesla",
       "Communicated to coworkers in Hebrew"
     ]
   },
