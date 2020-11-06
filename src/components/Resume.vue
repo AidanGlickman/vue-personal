@@ -1,15 +1,15 @@
 <template>
   <b-container>
-    <b-button @click="printWindow" class="no-print" id="printbutton"
+    <b-button href="resume.pdf" class="no-print" id="printbutton"
       ><unicon name="print"
     /></b-button>
     <Intro />
     <hr />
     <Workex />
-    <hr class="pagebreak" />
+    <hr />
     <Skills />
     <hr />
-    <Education />
+    <Education class="pagebreak" />
     <hr />
     <ExtraCurr />
   </b-container>
