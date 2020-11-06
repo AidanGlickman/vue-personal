@@ -1,12 +1,9 @@
 [
-  "Python (OpenCV, numPy, SciKit...)",
-  "Docker",
-  "Kubernetes",
-  "JavaScript (node, Vue, Express...)",
-  "C",
-  "x86 and 6502 assemblies",
-  "Racket/Scheme",
-  "Java",
-  "Shell scripting",
-  "Linux Sysadmin"
+  {"name": "Python", "list": ["numPy", "SciKit", "OpenCV", "Many other libraries"]},
+  {"name": "JavaScript", "list": ["NodeJS", "Express", "VueJS", "ES11", "Many other libraries/frameworks"]},
+  {"name": "Deployment", "list": ["Docker", "Kubernetes", "TravisCI/CircleCI"]},
+  {"name": "Functional Programming", "list": ["Scheme (Racket)", "Lambda Calculus"]},
+  {"name": "Low Level", "list": ["C", "x86 & 6502 Assembly"]},
+  {"name": "Linux Skills", "list": ["Shell scripting", "Comfortable in shell"]},
+  {"name": "Other Languages", "list": ["Java", "Octave/Matlab", "Ability to learn very quickly"]}
 ]

@@ -1,13 +1,9 @@
 <template>
   <div>
-    <h2>CS Skills</h2>
-    <b-row>
-      <b-col sm="4" lg="3" v-for="skill in skills" :key="skill">
-        {{
-        skill
-        }}
-      </b-col>
-      <b-col sm="12" class="text-center">Ability to learn new technologies and skills very fast</b-col>
+    <h2>Main Technologies</h2>
+    <b-row v-for="skill in skills" :key="skill.name" class="mb-1">
+      <b-col sm="12" md="3">{{skill.name}}</b-col>
+      <b-col sm="12" md="9" class="text-right">{{skill.list.join(", ")}}</b-col>
     </b-row>
   </div>
 </template>

@@ -8,10 +8,10 @@
     <Education />
     <hr />
     <Workex />
+    <hr class="pagebreak" />
+    <Skills />
     <hr />
     <ExtraCurr />
-    <hr />
-    <Skills />
   </b-container>
 </template>
 
