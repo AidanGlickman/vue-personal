@@ -5,11 +5,11 @@
     /></b-button>
     <Intro />
     <hr />
-    <Education />
-    <hr />
     <Workex />
     <hr class="pagebreak" />
     <Skills />
+    <hr />
+    <Education />
     <hr />
     <ExtraCurr />
   </b-container>
