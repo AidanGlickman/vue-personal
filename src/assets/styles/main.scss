@@ -19,7 +19,7 @@ body {
 @media print {
   .container {
     width: auto;
-    color: $dark;
+    color: #000;
     .pagebreak {
       page-break-before: always;
     }
