@@ -1,4 +1,5 @@
 <template>
+<!-- IF THIS IS EDITED MAKE SURE TO REPRINT PDF -->
   <b-container>
     <b-button href="resume.pdf" class="no-print" id="printbutton"
       ><unicon name="print"

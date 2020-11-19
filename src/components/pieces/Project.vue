@@ -1,5 +1,5 @@
 <template>
-  <div id="card" class="mx-auto">
+  <b-col col="4">
     <a :href="project.url" target="_blank">
       <b-card
         :img-src="require('@/assets/images/projects/' + project.img)"
@@ -8,11 +8,12 @@
         :sub-title="project.tech"
         :text-variant="textType"
         :bg-variant="themeOpp"
+        class="h-100"
       >
         <b-card-text>{{ project.desc }}</b-card-text>
       </b-card>
     </a>
-  </div>
+  </b-col>
 </template>
 
 <script>

@@ -5,9 +5,9 @@
       <span class="text-success">ls</span> projects
       <br />
     </h3>
-    <b-card-group deck class="mx-auto">
+    <b-row>
       <Project v-for="proj in projList" :key="proj.key" :project="proj" />
-    </b-card-group>
+    </b-row>
     <p class="text-center follow">
       Find projects that don't have pretty frontends on my
       <a
