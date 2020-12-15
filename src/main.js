@@ -7,7 +7,7 @@ import store from './store/store'
 
 import Unicon from 'vue-unicons'
 import {
-  uniMediumM,
+  uniYoutube,
   uniGithub,
   uniEnvelope,
   uniLinkedin,
@@ -15,7 +15,7 @@ import {
   uniMoon,
 } from 'vue-unicons/src/icons'
 
-Unicon.add([uniMediumM, uniGithub, uniEnvelope, uniLinkedin, uniPrint, uniMoon])
+Unicon.add([uniYoutube, uniGithub, uniEnvelope, uniLinkedin, uniPrint, uniMoon])
 Vue.use(Unicon)
 
 Vue.use(BootstrapVue)

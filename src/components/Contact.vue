@@ -18,8 +18,8 @@
         class="text-center"
         :class="{'dark': !this.$store.state.lightTheme, 'light': this.$store.state.lightTheme}"
       >
-        <a href="https://medium.com/@aidgli">
-          <unicon name="medium-m" width="5rem" height="5rem" />
+        <a href="https://www.youtube.com/channel/UC4sLvmZVtLhQag4DVqgPQmw">
+          <unicon name="youtube" width="5rem" height="5rem" />
         </a>
       </b-col>
       <b-col
