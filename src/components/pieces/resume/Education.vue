@@ -11,6 +11,7 @@
       <b-col sm="12">{{ edData.act }} ACT</b-col>
       <b-col sm="12">{{ edData.tests.join(', ') }}</b-col>
     </b-row>
+    <template v-if="course">
     <h3>CS Coursework</h3>
     <b-row>
       <b-col
@@ -22,6 +23,7 @@
         >{{ course }}</b-col
       >
     </b-row>
+    </template>
   </div>
 </template>
 
@@ -29,6 +31,9 @@
   import education from '@/assets/data/education.json'
   export default {
     name: 'Education',
+    props: {
+      course: Boolean
+    },
     data() {
       return {
         edData: education,

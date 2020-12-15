@@ -9,7 +9,7 @@
     <hr />
     <Skills />
     <hr />
-    <Education class="pagebreak" />
+    <Education class="pagebreak" :course="true"/>
     <hr />
     <ExtraCurr />
   </b-container>
