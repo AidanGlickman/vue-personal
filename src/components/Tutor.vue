@@ -1,8 +1,8 @@
 <template>
   <b-container>
     <h1>Aidan Glickman Tutoring</h1>
-    <p>Bergen County Academies graduate with vast experience as a peer tutor.
-      Expert in all levels of high school math and computer science through college.
+    <p>Bergen County Academies graduate with experience as a peer tutor. 
+      All levels of high school math and computer science through college.
       Tutored and served as Webmaster for Bergen County Academies National Honor Society.
     </p>
     <h3>Courses</h3>
