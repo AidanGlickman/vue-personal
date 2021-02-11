@@ -7,11 +7,11 @@
     "img": "hackbca.png"
   },
   {
-    "title": "srn.pw",
-    "tech": "Web",
-    "desc": "A linkbank and link shortening platform.",
-    "url": "https://srn.pw",
-    "img": "srnpw.png"
+    "title": "BCACTF",
+    "tech": "CTF",
+    "desc": "A CTF for beginners/intermediates.",
+    "url": "https://github.com/AidanGlickman/bcactf-2k19-problems",
+    "img": "bcactf.png"
   },
   {
     "title": "bca-nhs.org",
